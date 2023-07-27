@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestForecastUI", "TestForecastUI.csproj", "{B221EED6-2E25-41AF-8956-0109C3D64A79}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TestForecastUI", "TestForecastUI", "{96CB767B-0AA0-499E-A43E-266FE5B710F4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TestForecastLibrary", "TestForecastLibrary", "{7FC1EDA1-28B7-44D3-A803-E35460C25D84}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B221EED6-2E25-41AF-8956-0109C3D64A79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B221EED6-2E25-41AF-8956-0109C3D64A79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B221EED6-2E25-41AF-8956-0109C3D64A79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B221EED6-2E25-41AF-8956-0109C3D64A79}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{B221EED6-2E25-41AF-8956-0109C3D64A79} = {96CB767B-0AA0-499E-A43E-266FE5B710F4}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7C7CCEC6-70A2-48FB-84BD-C62FB75BA6C5}
+	EndGlobalSection
+EndGlobal
