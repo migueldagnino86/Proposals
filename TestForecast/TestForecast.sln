@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33829.357
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestForecastUI", "TestForecastUI.csproj", "{B221EED6-2E25-41AF-8956-0109C3D64A79}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestForecastUI", "TestForecastUI\TestForecastUI.csproj", "{B221EED6-2E25-41AF-8956-0109C3D64A79}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TestForecastUI", "TestForecastUI", "{96CB767B-0AA0-499E-A43E-266FE5B710F4}"
 EndProject
