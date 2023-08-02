@@ -9,6 +9,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TestForecastUI", "TestForec
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TestForecastLibrary", "TestForecastLibrary", "{7FC1EDA1-28B7-44D3-A803-E35460C25D84}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestForecast.Utils", "TestForecastLibrary\Utils\TestForecast.Utils\TestForecast.Utils.csproj", "{441F1879-2240-4B47-B9CA-8720FBE87AF5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Utils", "Utils", "{A73661F4-BA97-4D7C-8FDC-2FC37ABB1D86}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,12 +23,18 @@ Global
 		{B221EED6-2E25-41AF-8956-0109C3D64A79}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B221EED6-2E25-41AF-8956-0109C3D64A79}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B221EED6-2E25-41AF-8956-0109C3D64A79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{441F1879-2240-4B47-B9CA-8720FBE87AF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{441F1879-2240-4B47-B9CA-8720FBE87AF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{441F1879-2240-4B47-B9CA-8720FBE87AF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{441F1879-2240-4B47-B9CA-8720FBE87AF5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{B221EED6-2E25-41AF-8956-0109C3D64A79} = {96CB767B-0AA0-499E-A43E-266FE5B710F4}
+		{441F1879-2240-4B47-B9CA-8720FBE87AF5} = {A73661F4-BA97-4D7C-8FDC-2FC37ABB1D86}
+		{A73661F4-BA97-4D7C-8FDC-2FC37ABB1D86} = {7FC1EDA1-28B7-44D3-A803-E35460C25D84}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {7C7CCEC6-70A2-48FB-84BD-C62FB75BA6C5}

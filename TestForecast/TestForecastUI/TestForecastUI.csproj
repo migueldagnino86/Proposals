@@ -6,6 +6,11 @@
     <Nullable>enable</Nullable>
     <UseWindowsForms>true</UseWindowsForms>
     <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>False</UseWPF>
   </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TestForecastLibrary\Utils\TestForecast.Utils\TestForecast.Utils.csproj" />
+  </ItemGroup>
 
 </Project>
